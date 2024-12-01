@@ -2,7 +2,7 @@
  Integrantes: Tomas Capriotti, Gabriel Sanchez, Claudio Gonzalez.
 
  Integrante Lider del proyecto: Tomas Capriotti. Encargado de gestionar, hacer el codigo mas ordenado, mayor parte del desarrollo.
- Desarrolladores: Gabriel Sanchez y Claudio Gonzalez. Acompañamiento y ayuda en el desarrollo, sin ellos no podriamos terminarlo. 
+ Desarrolladores: Gabriel Sanchez y Claudio Gonzalez. Acompañamiento y ayuda en el desarrollo, sin ayuda de todos nosotros no podriamos terminarlo. 
  
  
 # Simple CRUD API with JWT Authentication
